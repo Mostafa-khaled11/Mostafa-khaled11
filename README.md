@@ -80,11 +80,11 @@ Docker · Qdrant · Ollama · Streamlit · REST APIs
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
-[GitHub Statistics]
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-khaled11&show_icons=true&hide_border=true)
 
-[Profile Views]
+![Profile Views](https://komarev.com/ghpvc/?username=Mostafa-khaled11&label=Profile%20Views&style=flat)
 
 ---
 
