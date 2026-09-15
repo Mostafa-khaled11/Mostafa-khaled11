@@ -1,9 +1,8 @@
 # Hi, I'm Mostafa Khaled 👋
 
-### Data Scientist | Computer Vision | NLP | Generative AI
+### AI & Machine Learning Engineer
 
-I'm a Mathematics & Computer Science graduate passionate about building
-AI systems that solve real-world problems.
+Mathematics & Computer Science graduate focused on building end-to-end AI systems across Machine Learning, Generative AI, NLP, Computer Vision, and MLOps.
 
 My main interests are:
 
