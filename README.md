@@ -1,92 +1,63 @@
 # Hi, I'm Mostafa Khaled 👋
 
-### AI & Machine Learning Engineer
+**AI & Machine Learning Engineer | Agentic AI • LLM Applications • MLOps**
 
-Mathematics & Computer Science graduate focused on building end-to-end AI systems across Machine Learning, Generative AI, NLP, Computer Vision, and MLOps.
+I'm a Computer Science graduate focused on designing, building, and evaluating end-to-end AI systems.
 
-My main interests are:
+My work spans **Agentic AI, Retrieval-Augmented Generation, Machine Learning, and backend engineering**, with an emphasis on reliable architectures, reproducible experiments, automated testing, and measurable results.
 
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision & Human Pose Estimation
-- 🧠 NLP & Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ⚽ Sports AI & Biomechanics
-- 📊 Data Science
+### 🚀 Featured Projects
 
----
+**⚽ [Agentic Football Performance Analyst](https://github.com/Mostafa-khaled11/agentic-football-performance-analyst)**
 
-## 🚀 Featured Projects
+An agentic football analytics platform built with LangGraph, Python, FastAPI, and React.
 
----
+- Orchestrates specialized analytical workflows using LangGraph.
+- Computes deterministic football metrics and spatial analytics, including Expected Threat (xT).
+- Integrates football event data through provider adapters and evidence validation.
+- Documents 265 automated tests and 55 evaluation cases in its released version.
 
-### 🧍 Human Pose Estimation Bible — RAG System
-A knowledge-based RAG system built around Human Pose Estimation research
-and technical knowledge.
+**💳 [Credit Card Fraud Detection](https://github.com/Mostafa-khaled11/credit-card-fraud-detection)**
 
-**Tech:** Python · RAG · Vector Database · Embeddings · LLMs
+An end-to-end machine learning system for detecting fraudulent transactions, with experiment tracking, inference APIs, and monitoring.
 
----
+- Implements leakage-aware temporal validation and imbalance-sensitive evaluation.
+- Reports a test PR-AUC of **0.7767** and recall of **78.85%**.
+- Uses MLflow, FastAPI, Docker, and automated CI checks.
+- Explores business-aware threshold selection and guarded retraining.
 
-### ⚽ Sports & Human Pose Estimation
-Computer Vision projects focused on human pose estimation and sports
-analysis.
+**📚 [Human Pose Estimation RAG System](https://github.com/Mostafa-khaled11/Rag-system-of-Human-Pose-Estimation-Bible)**
 
-**Tech:** Python · YOLO · Computer Vision · Pose Estimation
+A local Retrieval-Augmented Generation application for technical question answering.
 
----
+- Combines Qdrant, Ollama, FastAPI, and React.
+- Supports semantic retrieval, reranking experiments, and source-grounded answers.
+- Evaluates retrieval quality using a documented 23-question benchmark.
+- Uses evaluation results to guide system configuration instead of assuming additional components improve performance.
 
-### 💳 Fraud Detection in Financial Transactions
-A Machine Learning system designed to detect potentially fraudulent
-financial transactions using data analysis, feature engineering,
-classification models, and model evaluation.
+### 🛠️ Technical Stack
 
-**Tech:** Python · Pandas · NumPy · Scikit-learn · Machine Learning ·
-Feature Engineering · Classification · Fraud Detection
+**AI & LLM Engineering:** LangGraph, RAG, Embeddings, Vector Databases, LLM Evaluation
 
----
+**Machine Learning & Data Science:** Python, Scikit-learn, Pandas, NumPy, Model Evaluation, Feature Engineering
 
-## 🧠 Technical Skills
+**Backend & MLOps:** FastAPI, Docker, MLflow, GitHub Actions, Pytest, REST APIs
 
-### Programming
-Python · SQL · Git · GitHub
+**Frontend & Development:** React, TypeScript, Git, GitHub
 
-### Machine Learning
-Scikit-learn · Feature Engineering · Model Evaluation
+### 🔍 Engineering Approach
 
-### Deep Learning
-PyTorch · Neural Networks · CNNs · Transformers
+I aim to build AI systems that are not only functional, but also testable, explainable, and maintainable.
 
-### NLP & Generative AI
-NLP · LLMs · Embeddings · Prompt Engineering · RAG · Vector Databases
+My projects emphasize:
 
-### Computer Vision
-OpenCV · Object Detection · Human Pose Estimation · Video Analysis
+- Measurable evaluation over unsupported performance claims.
+- Deterministic computation where LLM-generated answers are not appropriate.
+- Reproducible experiments and transparent limitations.
+- Modular architectures, automated testing, and clear documentation.
 
-### Tools & Infrastructure
-Docker · Qdrant · Ollama · Streamlit · REST APIs
+### 📫 Connect
 
----
+[GitHub](https://github.com/Mostafa-khaled11)
 
-## 📚 What I'm Learning
-
-- Advanced RAG architectures
-- LLM evaluation
-- Computer Vision
-- Human Pose Estimation
-- Biomechanics from Pose Estimation
-- Sports Analytics
-- MLOps & AI deployment
-
----
-
-## 📊 GitHub Statistics
-
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-khaled11&show_icons=true&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mostafa-khaled11&label=Profile%20Views&style=flat)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa%20Khaled-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-khaled-5876a925a/)
+*Open to entry-level opportunities in AI Engineering, Machine Learning Engineering, and Applied AI.*
